@@ -3,6 +3,10 @@
 ## Overview
 This project explores how various lifestyle factors correlate with happiness. It uses a Streamlit dashboard to visualize these correlations dynamically, allowing users to select different categories and see how each factor correlates with happiness.
 
+## Dashboard Photo
+<img width="1388" alt="Screen Shot 2024-05-06 at 6 46 39 PM" src="https://github.com/eric-rosenbaum/Happiness_data/assets/161375414/a9437ee8-9e09-4564-a273-a96713402b32">
+
+
 ## Features
 - **Interactive Visualizations**: Explore correlations through interactive graphs.
 - **Category Selection**: Filter data by categories like Music, Lifestyle, Movies, School Subjects, and more.
